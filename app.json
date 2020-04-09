@@ -1,0 +1,17 @@
+{
+  "name": "UnsplashClone",
+  "displayName": "UnsplashClone",
+  "expo": {
+    "name": "UnsplashClone",
+    "slug": "UnsplashClone",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
